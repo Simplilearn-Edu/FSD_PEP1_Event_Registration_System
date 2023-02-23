@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a2011e1c-a8ce-4e67-bb2a-8f30659264da" name="Changes" comment="Main Menu and Sub-Menu" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2KraXiQ7AkyjoMmYVeshbnagi5F" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;G:/slearn/EventRegistrationSystem/src&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\slearn\EventRegistrationSystem\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="EventRegistrationSystem" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a2011e1c-a8ce-4e67-bb2a-8f30659264da" name="Changes" comment="" />
+      <created>1674735501960</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1674735501960</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Main Menu and Sub-Menu">
+      <created>1674737086481</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1674737086481</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Main Menu and Sub-Menu">
+      <created>1674990920258</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1674990920258</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Main Menu and Sub-Menu">
+      <created>1675055564224</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1675055564224</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Main Menu and Sub-Menu">
+      <created>1675076249994</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1675076249994</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Main Menu and Sub-Menu">
+      <created>1675076351212</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1675076351212</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Main Menu and Sub-Menu">
+      <created>1675077902474</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1675077902474</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Main Menu and Sub-Menu">
+      <created>1675078687724</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1675078687724</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Main Menu and Sub-Menu">
+      <created>1675169226420</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1675169226420</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Main Menu and Sub-Menu">
+      <created>1675179811497</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1675179811497</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Main Menu and Sub-Menu">
+      <created>1675181698882</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1675181698882</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Main Menu and Sub-Menu">
+      <created>1675226189508</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1675226189508</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Main Menu and Sub-Menu">
+      <created>1675226333311</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1675226333311</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Main Menu and Sub-Menu">
+      <created>1675226385711</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1675226385711</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Main Menu and Sub-Menu" />
+    <option name="LAST_COMMIT_MESSAGE" value="Main Menu and Sub-Menu" />
+  </component>
+</project>
